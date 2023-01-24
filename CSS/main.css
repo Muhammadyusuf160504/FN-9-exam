@@ -383,6 +383,12 @@ main {
 .div1-text {
     color: #FFFFFF;
 }
+.sss {
+    cursor: pointer;
+}
+.sss:hover {
+    color: #00BAFC;
+}
 .div1-p {
     height: 120px;
     width: 320px;
